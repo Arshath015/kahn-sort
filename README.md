@@ -98,3 +98,10 @@ This project is licensed under the MIT License
 
 ---
 **Last updated:** 2026-08-09
+
+
+## Requirements
+
+```
+pip install -r requirements.txt
+```
